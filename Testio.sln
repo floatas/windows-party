@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testio", "Testio.csproj", "{79C4D84D-7B30-43A0-B31F-CF5407B2973D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testio.Tests", "Testio.Tests\Testio.Tests.csproj", "{6BE28732-BABA-46BC-988F-FEEB4B5D72CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C4D84D-7B30-43A0-B31F-CF5407B2973D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C4D84D-7B30-43A0-B31F-CF5407B2973D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C4D84D-7B30-43A0-B31F-CF5407B2973D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C4D84D-7B30-43A0-B31F-CF5407B2973D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE28732-BABA-46BC-988F-FEEB4B5D72CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE28732-BABA-46BC-988F-FEEB4B5D72CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE28732-BABA-46BC-988F-FEEB4B5D72CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE28732-BABA-46BC-988F-FEEB4B5D72CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CF6A76-2D19-4DCB-9207-A8B68A395061}
+	EndGlobalSection
+EndGlobal

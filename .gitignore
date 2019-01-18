@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages
+/.vs/Testio/v15
+/bin/Debug
+/obj/Debug
+/obj/Release
+/Testio.Tests/obj/Debug
+/Testio.Tests/bin/Debug
+/Testio.Tests/obj/Release
